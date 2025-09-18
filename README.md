@@ -6,7 +6,7 @@ Aspiring **Machine Learning Engineer** and **Data Scientist** looking for hands-
 
 - 🎓 B.S. in Computer Science, Data Science Concentration, minor in management inforrmation system @ UMass Lowell (Sophomore)
 - 🔬 Interests: Machine Learning, Software Engineering, Data Analytics, AI in Society
-- 🚀 Currently learning: ptyhon, Scikit-learn, Pandas, TensorFlow, SQL
+- 🚀 Currently learning: ptyhon, Scikit-learn, Pandas, TensorFlow, SQL, AWS
 - 📫 Reach me at: http://linkedin.com/in/erwin-coq-aaba722ba | coq.erwin.samuel@gmail.com
 
 ---
