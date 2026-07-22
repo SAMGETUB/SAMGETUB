@@ -3,7 +3,7 @@
 Aspiring **Machine Learning / AI Engineer** and **Data Scientist** looking for hands-on experience in Python, C++, and data-driven projects. I'm passionate about solving real-world problems and continuously improving my technical and analytical skills.
 
 - 🎓 B.S. in Computer Science, Data Science Concentration @ UMass Lowell (graduating Dec 2027)
-- 🤖 CodePath Web Fellow · Break Through Tech AI @ MIT alum
+- 🤖 CodePath Web Dev Fellow · Break Through Tech AI @ MIT alum
 - 🔬 Interests: Machine Learning, AI Agents, Software Engineering, Data Analytics
 - 🚀 Currently learning: Scikit-learn, Pandas, TensorFlow, SQL, AWS
 - 📫 Reach me at: [LinkedIn](http://linkedin.com/in/erwin-coq-aaba722ba) | coq.erwin.samuel@gmail.com
@@ -52,10 +52,35 @@ To explore the full code, analysis, and results, please visit the project reposi
 
 ---
 
+**SiS Course Registration Automation Agent** 🚧 *Currently Building*
+
+**Project Overview**  
+An automation agent I'm actively building to monitor UMass Lowell's SiS portal (PeopleSoft) and streamline course registration. It watches a wishlist of courses for open seats, validates prerequisites, handles permission codes, and auto-enrolls when conditions are met — sending Gmail notifications on success or failure.
+
+⸻
+
+**What I'm Building**
+
+- **Browser Automation:** Using Playwright to log into the SiS portal, manage authenticated PeopleSoft sessions, and navigate course search and enrollment flows
+- **Seat & Prerequisite Logic:** Monitors a wishlist for open seats, validates prerequisites, and handles permission codes when required
+- **Orchestration:** Uses n8n for scheduled polling on a set interval, stopping once a course is successfully enrolled
+- **Notifications:** Sends Gmail notifications on successful enrollment or with the specific reason a course failed
+- **Safety Rules:** Never enrolls in a section I didn't request and never enrolls if prerequisites aren't met
+
+⸻
+
+🛠 Technologies Used
+
+Python, Playwright, n8n, Gmail API
+
+⸻
+
+---
+
 **Job Application Triage Agent** 🚧 *Currently Building*
 
 **Project Overview**  
-An agentic system I'm actively developing to help triage internship postings and tailor applications. It uses a multi-agent pipeline to read a job posting, score how well it matches my skill profile, and draft tailored application materials — with me reviewing and submitting.
+An agentic system I'm actively developing to help triage internship postings and tailor applications. Built as a multi-agent pipeline with **LangChain**, it reads a job posting, scores how well it matches my skill profile, and drafts tailored application materials — with me reviewing and submitting.
 
 ⸻
 
