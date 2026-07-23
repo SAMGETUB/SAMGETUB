@@ -2,7 +2,7 @@
 
 ## Hi there!
 
-I'm [Samuel Coq](http://linkedin.com/in/erwin-coq-aaba722ba), a Computer Science student interested in AI, software engineering and machine learning..
+I'm [Samuel Coq](http://linkedin.com/in/erwin-coq-aaba722ba), a Computer Science student interested in AI, software engineering and machine learning.
 
 In my free time, I play soccer, work out at the gym and stay active in my faith community. I'm a first-generation college student and co-founder of a nonprofit focused on expanding access to technology in Haiti.
 
@@ -10,7 +10,7 @@ In my free time, I play soccer, work out at the gym and stay active in my faith 
 ---
 
 - 🎓 B.S. in Computer Science, Data Science Concentration @ UMass Lowell (graduating Dec 2027)
-- 🤖 CodePath AI Engineering Fellow · Break Through Tech AI @ MIT alum
+- 🤖 CodePath Web Dev Fellow · Break Through Tech AI @ MIT alum
 - 🔬 Interests: Machine Learning, AI Agents, Software Engineering, Data Analytics
 - 🚀 Currently learning: Scikit-learn, Pandas, TensorFlow, SQL, AWS
 - 📫 Reach me at: [LinkedIn](http://linkedin.com/in/erwin-coq-aaba722ba) | coq.erwin.samuel@gmail.com
