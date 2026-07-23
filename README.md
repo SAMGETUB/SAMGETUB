@@ -1,8 +1,8 @@
-# Erwin Samuel Coq | Computer Science Student
+
 
 ## Hi there!
 
-I'm [Erwin Samuel Coq](http://linkedin.com/in/erwin-coq-aaba722ba), a Computer Science student interested in AI, software engineering and machine learning..
+I'm [Samuel Coq](http://linkedin.com/in/erwin-coq-aaba722ba), a Computer Science student interested in AI, software engineering and machine learning..
 
 In my free time, I play soccer, work out at the gym and stay active in my faith community. I'm a first-generation college student and co-founder of a nonprofit focused on expanding access to technology in Haiti.
 
